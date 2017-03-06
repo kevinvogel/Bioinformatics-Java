@@ -3,6 +3,11 @@ File name: DNA.java
 Program author name: Kevin Vogel
  */
 
+/*
+The purpose of this program is to ask the user for a DNA sequence to be validated, display sequence length, display number 
+of each nucleotide within the sequence and display GC content.
+*/
+
 import java.util.Scanner;
 
 // DNA class
